@@ -1,4 +1,0 @@
-env: dev
-service_name: Notification Service
-service_url: https://math2do.in/notification
-port: 3000
